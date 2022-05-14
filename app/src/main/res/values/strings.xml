@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iTube</string>
+    <string name="buffering_string">Buffering</string>
+</resources>
